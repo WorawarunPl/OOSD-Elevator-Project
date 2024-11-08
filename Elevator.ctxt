@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.target=Elevator
+comment1.params=id\ mL\ cF\ check
+comment1.target=Elevator(java.lang.String,\ int,\ int,\ boolean)
+comment2.params=
+comment2.target=Elevator()
+comment3.params=
+comment3.target=java.lang.String\ getID()
+comment4.params=
+comment4.target=int\ getCurrentFloor()
+comment4.text=public\ int\ newCurrentFloor(Button2\ b2){\ \ \ \ \ \ \ \ \r\n\ \ \ \ \ \ \ \ currentFloor\ \=\ b2.extend();\r\n\ \ \ \ \ \ \ \ return\ currentFloor;\r\n}
+comment5.params=
+comment5.target=java.lang.String\ openDoor()
+comment6.params=
+comment6.target=java.lang.String\ closeDoor()
+comment7.params=
+comment7.target=java.lang.String\ goUp()
+comment8.params=
+comment8.target=java.lang.String\ goDown()
+numComments=9

@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Button1
+comment1.params=floor\ direction
+comment1.target=Button1(int,\ java.lang.String)
+comment2.params=
+comment2.target=Button1()
+comment3.params=c
+comment3.target=void\ setController(Controller)
+comment4.params=
+comment4.target=int\ sendFloor()
+comment5.params=
+comment5.target=java.lang.String\ getDirection()
+numComments=6
